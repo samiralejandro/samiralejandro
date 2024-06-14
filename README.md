@@ -27,9 +27,9 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y co
 - [Tallerarqui](https://github.com/samiralejandro/tallerarqui): Proyecto de ecommerce con Jakarta y Wildfly.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://samiralejandro.github.io/samiralejandro/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://samiralejandro.github.io/samiralejandro/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://samiralejandro.github.io/samiralejandro/github-contribution-grid-snake.svg" />
 </picture>
 
 
