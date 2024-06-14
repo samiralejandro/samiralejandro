@@ -29,6 +29,6 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y co
 ![Snake animation](https://samiralejandro.github.io/samiralejandro/snake.svg)
 
 ### Cómo contactarme
-- Email: samiralejandro@example.com
+- Email: samir9032@gmail.com
 - LinkedIn: [linkedin.com/in/samiralejandro](https://www.linkedin.com/in/samir-alejandro-9a1672185/)
 
