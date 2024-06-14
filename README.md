@@ -26,7 +26,12 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y co
 - [Proyecto-Web-Backend](https://github.com/samiralejandro/Proyecto-Web-Backend): Backend de una página web utilizando Java y Spring Boot.
 - [Tallerarqui](https://github.com/samiralejandro/tallerarqui): Proyecto de ecommerce con Jakarta y Wildfly.
 
-![Snake animation](https://samiralejandro.github.io/samiralejandro/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 ### Cómo contactarme
 - Email: samir9032@gmail.com
