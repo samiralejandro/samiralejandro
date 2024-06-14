@@ -1,34 +1,13 @@
 ![Banner](https://github.com/samiralejandro/samiralejandro/blob/main/banner.png)
 
 <div align="center">
-  <h2>
+  <h1>
     <a href="https://github.com/samiralejandro/samiralejandro">
       <span class="typewriter">Hola, soy Samir Alejandro 👋</span>
     </a>
-  </h2>
+  </h1>
 </div>
 
-<style>
-  .typewriter {
-    display: inline-block;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-  }
-  
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: orange; }
-  }
-</style>
 
 Soy un apasionado desarrollador full-stack en constante aprendizaje y crecimiento. Actualmente, estoy enfocado en:
 
